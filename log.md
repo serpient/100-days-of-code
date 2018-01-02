@@ -1,10 +1,14 @@
-# 100 Days Of Code Log
-# Start Date: December 28, 2017
+# 100 Days Of Code Log - Start Date: December 28, 2017
+### Day 2: January 1, 2017 
+<!-- ##### (delete me or comment me out) -->
 
+**Today's Progress**: Finished watching SD4x video on D3, Node.js, and Express, and a few intro videos on MongoDB
+
+**Thoughts**: This is pretty confusing, hopefully the homework will help cement these concepts.
 ### Day 1: December 31, 2017 
 <!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: Finished SD4x react-app homework. Continue watching the next weeks lecture videos. 
+**Today's Progress**: Finished SD4x react-app homework. Continue watching videos about Es6
 
 **Thoughts**: React-app homework took longer than I thought. My javascript is getting rusty, and the parent data passed down to children (and backup) definetly needs more practice. Also, I'm surprised by the amount of nesting the React components are doing in the example homework. 
 

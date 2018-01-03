@@ -1,4 +1,11 @@
 # 100 Days Of Code Log - Start Date: December 28, 2017
+
+### Day 2: January 2, 2017 
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Watched more SD4x videos on mongoDB. Switched to CS50 lecture 6. 
+
+**Thoughts**: As an aside, I had previously finished all of the CS50 homework up to Dictionary, the last of which I only had pseudo code. I got frustrated and gave up, so glad to watch the next lecture video, only for it to jump right into an introduction of client/server and html!
 ### Day 2: January 1, 2017 
 <!-- ##### (delete me or comment me out) -->
 

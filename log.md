@@ -1,5 +1,9 @@
 # 100 Days Of Code Log - Start Date: December 28, 2017
 
+### Day 5: January 5, 2017 
+**Today's Progress**: Watching CS50 lecture 8 on python examples. Started back up on FCC wikipedia codepen project
+
+**Thoughts**: Wow, I definetly need to practice more smaller projects that work with APIs. Yet again, I am struggling with grabbing data from the API. 
 ### Day 4: January 4, 2017 
 **Today's Progress**: Watching CS50 lecture 7 and 8.
 

@@ -1,5 +1,9 @@
 # 100 Days Of Code Log - Start Date: December 28, 2017
 
+### Day 6: January 6, 2017 
+**Today's Progress**: Finished wikipedia FCC mini-project and twitch.tv project as well. 
+
+**Thoughts**: Good practice wtih API calls and CSS grid. Having trouble centering a row of CSS grid to align with another set of CSS grid elements below it. Had initial issues with packaging offline stream channels, but it wasnt because of the conditional (if/else), but because I called for properties not available in the null object. This would have been obvious if I looked at the developers tool console log more carefully. 
 ### Day 5: January 5, 2017 
 **Today's Progress**: Watching CS50 lecture 8 on python examples. Started back up on FCC wikipedia codepen project
 

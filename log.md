@@ -1,9 +1,27 @@
 # 100 Days Of Code Log - Start Date: December 28, 2017
 
+### Day 9: January 16, 2017 
+**Today's Progress**: Worked on non-mandatory week1 homework of posting form data to mongodb server.
+
+**Thoughts**: 
+### Day 8: January 15, 2017 
+**Today's Progress**: finished Mongodb week 1 lectures + homework
+
+**Thoughts**: Definitly still vague on Express / GET/POST processes. 
+### Day 7: January 13, 2017 
+**Today's Progress**: FCC Steamroller, which is essentally an excercise in recursion. 
+
+**Thoughts**: Wasted time for another 3 days - damn it!. 
+### Day 7: January 10, 2017 
+**Today's Progress**: Finished FCC Intermediate algorithm Smaller Common Multiple problem. Finished the CSS Grid tutorial (https://scrimba.com/p/pWqLHa/c7Jqdfa). Started neophytes front-end project.
+
+**Thoughts**: Wasted time for 3 days. Really great CSS Grid tutorial. Seems like a much better option than Bootstrap and FlexGrid
+
 ### Day 6: January 6, 2017 
 **Today's Progress**: Finished wikipedia FCC mini-project and twitch.tv project as well. 
 
 **Thoughts**: Good practice wtih API calls and CSS grid. Having trouble centering a row of CSS grid to align with another set of CSS grid elements below it. Had initial issues with packaging offline stream channels, but it wasnt because of the conditional (if/else), but because I called for properties not available in the null object. This would have been obvious if I looked at the developers tool console log more carefully. 
+
 ### Day 5: January 5, 2017 
 **Today's Progress**: Watching CS50 lecture 8 on python examples. Started back up on FCC wikipedia codepen project
 
